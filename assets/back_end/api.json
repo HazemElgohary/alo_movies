@@ -1,0 +1,93 @@
+{
+    "cover_photo":"assets/images/logo.jpg",
+    "series_name":"the challenge",
+    "coach_name":"Josh Kramer",
+    "video":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "coaches":[
+        {
+            "name":"Hazem",
+            "jop":"inistructor",
+            "image":"assets/images/logo.jpg"
+        },
+        {
+            "name":"Adel",
+            "jop":"inistructor",
+            "image":"assets/images/logo.jpg"
+        },
+        {
+            "name":"Elgohary",
+            "jop":"inistructor",
+            "image":"assets/images/logo.jpg"
+        },
+        {
+            "name":"messi",
+            "jop":"inistructor",
+            "image":"assets/images/logo.jpg"
+        }
+        
+    ],
+    "classes":[
+        {
+            "class_video":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+            "video_time":"00:06",
+            "class_day_number":"1",
+            "class_name":"Upper body strength"
+        },
+        {
+            "class_video":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+            "video_time":"00:06",
+            "class_day_number":"2",
+            "class_name":"Core isolation"
+        },
+        {
+            "class_video":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+            "video_time":"00:06",
+            "class_day_number":"7",
+            "class_name":"How to Approch this"
+        },
+        {
+            "class_video":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+            "video_time":"00:06",
+            "class_day_number":"9",
+            "class_name":"playing football"
+        },
+        {
+            "class_video":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+            "video_time":"00:06",
+            "class_day_number":"15",
+            "class_name":"going to gem"
+        },
+        {
+            "class_video":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+            "video_time":"00:06",
+            "class_day_number":"16",
+            "class_name":"take a rest"
+        }
+    ],
+    "posts":[
+        {
+            "image":"assets/images/logo.jpg",
+            "name":"Dom Harrelson",
+            "time":"3 hours ago",
+            "day":"17",
+            "class":"lower body strength",
+            "series":"the challenge"
+        },
+        {
+            "image":"assets/images/logo.jpg",
+            "name":"Hazem Elgohary",
+            "time":"3 hours ago",
+            "day":"15",
+            "class":"Core isolation",
+            "series":"the challenge"
+        },
+        {
+            "image":"assets/images/logo.jpg",
+            "name":"Hazem Elgohary",
+            "time":"3 hours ago",
+            "day":"10",
+            "class":"Upper body strength",
+            "series":"the challenge"
+        }
+    ]
+}
